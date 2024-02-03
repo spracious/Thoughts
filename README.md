@@ -1,0 +1,2 @@
+# Thoughts
+A Blog Webpage
